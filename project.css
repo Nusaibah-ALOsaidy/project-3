@@ -1,0 +1,5 @@
+table{ border-collapse: collapse; text-align: center;}
+ th, td{ border: 2px solid black; text-align: center;}
+form{ background-color: #eaeaea;}
+ input[type="submit"], input[type="reset"], button { background-color: #45546c; color: white;}
+label[for="name"], label[for="e-mail"], label[for="phone"], label[for="address"], label[for="date of birth"] { display: block; margin-bottom: 5px; font-weight: bold;}
